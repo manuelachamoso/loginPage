@@ -36,7 +36,7 @@ function loading() {
     }
     submitBtn.disabled = false;
     submit.innerHTML = 'Log in'; 
-  }, 2000);
+  }, 1500);
 }
 
 const closeBtn = document.getElementById('modal-close');
